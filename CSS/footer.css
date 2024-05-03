@@ -1,0 +1,28 @@
+.footer{
+    background: #000000;
+}
+
+.footer-container{
+    max-width: 1200px;
+    padding: 80px 20px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.footer-container p {
+    width: 50%;
+}
+
+.footer-container p, ul{
+    color: #ffffff;
+    font-size: 1.125rem;
+    line-height: 1.35;
+}
+
+.footer-container a{
+    text-decoration: none;
+    color:#e2c5c5;
+}
+
